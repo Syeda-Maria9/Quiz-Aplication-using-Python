@@ -1,0 +1,10 @@
+Q1)Which of the following malware's allows the attacker to access the administrative controls and enables his/her to do almost anything he wants to with the computer?\nA)RATs\nB)Worms\nC)Rootkits\nD)Botnets-B-
+Q2)Which of the following statement is true about Trojans?\nA)Trojans perform tasks for which they are designed or programmed\nB)Trojans replicates themselves or clone through an infection\nC)Trojans do nothing harmful to the users computer systems\nD) None-A-
+Q3)Which of the following is a type of malicious program that doesnot require any host?\nA)Trojan Horse\nB)Worm\nC)Trap Door\nD)Virus-B-
+Q4)DNS translates a domain name into?\nA)Hex\nB)Binary\nC)IP\nD)URL-D-
+Q5)Which one of the following is considered as the most secured Linux operating system that also provide anonymity and icognito option for securing user's information?\nA)Ubuntu\nB)Tails\nC)Fedora\nD)All of the above-B-
+Q6)Which one of the follwing is considered as the first hacker's conference?\nA)OSCON\nB)DEVON\nC)DEFCON\nD)SECTION-C-
+Q7)What is a firewall?\nA)A network based security system that measures and controls flow of information\nB)A program that encrypts all programs that access the internet\nC)A program that keeps other from using the network\nD)Firewalls interrupt that automatically dsiconnect from the internet when a threat happens-A-
+Q8)Which of the following symmetric keys can be derived from Symmetric master key?\nA)Authentication key\nB)Key wrapping keys\nC)Data encryption keys\nD)All of the above-D-
+Q9)Which is the best way a system can be hardened?\nA)Total disk encryption coupled with strong network security protocols\nB)White list ad filtering only\nC)Installing a commercial security site\nD)Virus scanning only-A-
+Q10)What does cross site scripting allow for attackers?\nA)Direct introduction of viruses into someones computer\nB)The introfuction of worm viruses into the victims ebsite\nC)A fishing attack\nD)Injection of client side scripts into web pages-D-

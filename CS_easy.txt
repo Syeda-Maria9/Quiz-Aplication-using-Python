@@ -1,0 +1,11 @@
+Q1.In which of the following, a person is chased by a person or a group of several people?\nA)Fishing\nA)Bullying\nC)Stalking\nD)All-C-
+Q2)Which of the following can b considered as the class of computer threats?\nA)Soliciting\nB)Fishing\nC)Dos attack\nD)All-A-
+Q3)Which of the following is considered as unsolicited email commercial\nA)Virus\nB)Malware\nC)Spam\nD)All-C-
+Q4)Which of the following observe each activity of the victim on internet,gather it and share with someone else?\nA)Malware\nB)Spyware\nC)Advare\nD)All-B-
+Q5)Which of the following is the software used to detect the viruses in a user's computer?\nA)Malware\nB)Advare-C)Antivirus-D)None-C-
+Q6)Which of the following is a type of antivirus program?\nA)Quick heel\nB)CCleaner\nC)Adobe\nD)All-A-
+Q7)Which of the following is the software that filters data entering and exiting a system?\nA)Antivirus\nB)Firewall\nC)Cookies\nD)None-B-
+Q8)Which of the following is stealing someone else's idea and invention and use it for their benefit?\nA)Piracy\nB)Fishing\nC)Hacking\nD)All-A-
+Q9)Which property of a system is measured through response and transit time?\nA)Security\nB)Longetivity\nC)Performance\nD)None-C-
+Q10)In computer networks, for improvement of which quality of a system are encrypt infection?\nA)Security\nB)Performance\nC)Reliability\nD)None-A-
+Q1 what is you?\namaria\nb)safia\ncayedha\ndsadaf-c-

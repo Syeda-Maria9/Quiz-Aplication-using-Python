@@ -1,0 +1,10 @@
+Q1.Which is not a property of representation of knowledge?\na)representational verification\nb)representational adequacy\nc)inferential efficiency\nd)all of these-a-
+Q2.Which of the following is a component of an expert system?\na)inference engine\nb)knowledge base\nc)both of these\nd)none of these-c-
+Q3.Which is the most straightforward approach for planning algorithm:\na)Best first search\nb)State space search\nc)depth first search\nd)none of these-b-
+Q4.What is the other name of the backward state space research?\na)progression planning\nb)regression planning\nc)test planning\nd)all of these-a-
+Q5.Which approach is to pretend that a pure divide and conquer algorithm will work?\na)goal independence\nb)subgoal independence\nc)none of the mentioned\nd)all-b-
+Q6.General games involves:\na)single agent\nb).multi agent\nc)only single and multi agent\nd)all of these-c-
+Q7.A game can be formally defined as a kind of search problem with tht following component?\na)initial state\nb)successor function\nc)both of these\nd)none of these-c-
+Q8.What are taken into accounts of state space search?\na)effects\nb)pre conditions\nc)both pre conditions and effects\nd)none-c-
+Q9.How many ways are available to solve the state space research?\na)1\nb)2\nc)3\nd)6-b-
+Q10.How many states are available in state space research?\na)2\nb)3\nc)4\nd)1-c-
